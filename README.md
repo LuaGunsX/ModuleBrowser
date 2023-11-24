@@ -4,4 +4,5 @@ A extremely simple easy-to-use Roblox module GUI; feel free to give this a star 
 Want the RBXM? Go to `github.com/LuaGunsX/ModuleBrowser/releases` for a list of releases.
 # Creators & License
 Creator of script: LuaGunsX (Discord account: LuaZ 3.0#4242)
+
 Script contributors: verified (Discord account: babyoutmoon4)
